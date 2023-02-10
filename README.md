@@ -15,7 +15,7 @@
     <!-- Header Starts -->
     <div class="header">
       <div class="header__left">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" />
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width: 30px; alt="" />
         <div class="header__search">
           <i class="material-icons"> search </i>
           <input type="text" />
